@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'exo2-lightItalic';
+  font-weight: 400;
+  font-style: normal;
+  src: local('exo2-lightItalic'),
+    url('../fonts/exo2-lightItalic.woff2') format('woff2'),
+    url('../fonts/exo2-lightItalic.woff') format('woff');
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'exo2-regular';
+  font-weight: 400;
+  font-style: normal;
+  src: local('exo2-regular'),
+    url('../fonts/exo2-regular.woff2') format('woff2'),
+    url('../fonts/exo2-regular.woff') format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'exo2-semiBold';
+  font-weight: 600;
+  font-style: normal;
+  src: local('exo2-semiBold'),
+    url('../fonts/exo2-semiBold.woff2') format('woff2'),
+    url('../fonts/exo2-semiBold.woff') format('woff');
+  font-display: swap;
+}
